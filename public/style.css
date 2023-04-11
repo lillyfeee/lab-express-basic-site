@@ -1,0 +1,72 @@
+body {
+    height: 100vh;
+    margin: 0;
+    /* display: flex;
+    flex-direction: column ;
+    align-items: center; */
+}
+
+.homePage{
+    background-image: url("/public/images/9622_v_1678291593.jpg") ;
+    background-size: cover;
+}
+
+h1 {
+    font-family: Zapfino ;
+    margin-top: 100px;
+    margin-left: 500px;
+    font-size: 50px;
+}
+
+#Martin {
+    display: flex;
+    flex-direction: column;
+}
+
+p{
+    font-family: Academy Engraved LET;
+    display: flex;
+    flex-direction: row;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: white;
+}
+
+h3 {
+    font-family: Zapfino ;
+    margin-top: 10px;
+    margin-left:620px;
+    font-size: 20px;
+    color: white;
+}
+
+h2 {
+    font-family: Zapfino;
+    margin-left: 600px;
+    color: white;
+}
+
+#aboutPage {
+    background-color: black;
+}
+
+#idPicture{
+    margin-left: 500px;
+    width: 500px;
+}
+
+.galleryLink {
+    margin-left: 510px;
+    size: 300px
+}
+
+a{
+    margin-left: 680px;
+    align-items: center;
+    font-family: Zapfino;
+    color:white
+}
+
+#aboutArtist {
+    color:black;
+}
